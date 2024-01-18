@@ -8,7 +8,7 @@
 
 - I'm interested in scientific computation, quantum computing, and machine learning
 
-- In my "free time", I enjoy learning another cool thing, reading a paper, or doing fun projects with my friends!
+- In my "free time," I enjoy learning new & interesting things or working on fun projects with my friends!
 
 
 <h3 align="left">🔷 Research Projects</h3>
