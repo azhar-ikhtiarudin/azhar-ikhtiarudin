@@ -14,7 +14,7 @@
 <h3 align="left">🔷 Research Projects</h3>
 
 - Currently working on my undergraduate thesis projects, focusing on the development of Adaptive Variational Quantum Eigensolver to obtain molecular properties
-- Previously worked on a summer research internship project at [Australian National University](https://anu.edu.au): [Particle Simulation Software for Directional Dark Matter Research](https://github.com/azhar-ikhtiarudin/frt-research-project)
+- Previously worked on a summer research internship project at [Australian National University](https://anu.edu.au) ([Particle Simulation Software for Directional Dark Matter Research](https://github.com/azhar-ikhtiarudin/frt-research-project))
 - Advancing Autonomous UAV Target Localization in GPS-Denied Environments [(Project)](https://github.com/azhar-ikhtiarudin/uav-path-planning-algorithm) [(IEEE Explore)](https://ieeexplore.ieee.org/abstract/document/10284425)
 - Detection of Ammonium Ion by An Electrochemical Sensor Based on Cu-BTC (Presented at International Conference on Sensor Technology 2023)
 - Broiler weight detections using Machine Learning and Computer Vision 
