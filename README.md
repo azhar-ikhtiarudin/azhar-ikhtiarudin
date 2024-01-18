@@ -1,29 +1,44 @@
 <h1 align="left">Hello! My name is Azhar Ikhtiarudin 👋</h1>
 
-<h4 align="left">I'm an Engineering Physics Student at Bandung Institute of Technology (ITB) ✨ </h4>
-My main interests are in computational science, quantum computing, and machine learning.
-In my "free time", I enjoy learning another cool thing, reading a paper, or doing fun projects with my friends!
+
+<h3 align="left">🔷 About</h3>
 
 
-- Research Projects
-    - Currently working on my undergraduate thesis projects on Quantum Computing (Quantum Simulation) Project
-    - Directional Dark Matter Software Simulation @ Australian National University
-    - Advancing Autonomous UAV Target Localization in GPS-Denied Environments (Project) (Publication)
-    - Detection of Ammonium Ion by An Electrochemical Sensor Based on Cu-BTC
-    - Broiler weight detections using Machine Learning and Computer Vision
+- I'm currently pursuing Engineering Physics Major at [Institut Teknologi Bandung](https://itb.ac.id). Member of [Computational Material Design & Quantum Engineering (CMD-QE) Laboratory](https://cmd.tf.itb.ac.id/)
+
+- I'm interested in scientific computation, quantum computing, and machine learning
+
+- In my "free time", I enjoy learning another cool thing, reading a paper, or doing fun projects with my friends!
+
+
+<h3 align="left">🔷 Research Projects</h3>
+
+- Currently working on my undergraduate thesis projects, focusing on the development of Adaptive Variational Quantum Eigensolver to obtain molecular properties
+- Summer research project at [Australian National University](https://anu.edu.au): [Particle Simulation Software for Directional Dark Matter Research](https://github.com/azhar-ikhtiarudin/frt-research-project)
+- Advancing Autonomous UAV Target Localization in GPS-Denied Environments [(Project)](https://github.com/azhar-ikhtiarudin/uav-path-planning-algorithm) [(IEEE Explore)](https://ieeexplore.ieee.org/abstract/document/10284425)
+- Detection of Ammonium Ion by An Electrochemical Sensor Based on Cu-BTC (Presented at International Conference on Sensor Technology 2023)
+- Broiler weight detections using Machine Learning and Computer Vision 
+
+<h3 align="left">🔷 Hackathon & College Projects</h3>
 
 - Hackathon Projects
     - [TransitSpot](https://github.com/omaewa-mo-shinderu-APEC/TransitSpot): Mobile app for public transport needs
     - [OpenSearch](https://github.com/GarudaHacksMafiaTeam/OpenSearch): Social media for open source enthusiasts
     - [InVey](https://github.com/findit-omae-wa-mou-shindeiru/Invey): Online monetized survey platform
 
-## Let's connect! ☕
+- Interesting College Projects
+    - [Light Seeker Robot](https://github.com/MSMazaya/Tubes-LTF2): End to End implementation of an automated light seeking PV robot controlled via mobile device
+    - [Computational Material Design Project](https://github.com/azhar-ikhtiarudin/computational-material-design)
 
-<a href="https://azhar.ikhtiarudin.com/"><img src="https://img.shields.io/badge/Personal%20website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" height="24px">
-</a>
+
+<h3 align="left">🔷 Let's connect! ☕</h3>
+
 <a href="https://www.linkedin.com/in/azhar-ikhtiarudin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="24px"></a>
 <a href="mailto: 13320041@mahasiswa.itb.ac.id"><img src="https://img.shields.io/badge/email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="24px"></a>
-<a href="https://www.instagram.com/azhar.ikhtiarudin/" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="24px"> </a>
+<a href="https://azhar.ikhtiarudin.com/"><img src="https://img.shields.io/badge/Personal%20website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" height="24px">
+</a>
+
+<!-- <a href="https://www.instagram.com/azhar.ikhtiarudin/" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="24px"> </a> -->
 <br/>
 
 ## Tools & Technologies 👨‍💻
