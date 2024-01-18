@@ -104,12 +104,14 @@
     </p>
 
 - Creative App <br>
+<p>
 <img height='20px' src="https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma">
 <img height='20px' src="https://img.shields.io/badge/-Adobe%20XD-333333?style=flat-square&logo=adobe%20XD">
 <img height='20px' src="https://img.shields.io/badge/adobe%20photoshop-%3333333.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
 <img height='20px' src="https://img.shields.io/badge/adobe%20illustrator-%3333333.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 <img height='20px' src="https://img.shields.io/badge/Adobe%20After%20Effects-333333.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white">
 <img height='20px' src="https://img.shields.io/badge/Adobe%20Lightroom-333333.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
+</p>
 
 <!-- ## Certificate 📄
 Here is [my programming certificate](Certificate.md) from various course providers. -->
