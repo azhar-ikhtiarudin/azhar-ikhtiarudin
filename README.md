@@ -1,7 +1,7 @@
 <h1 align="left">Hello! My name is Azhar Ikhtiarudin 👋</h1>
 
 
-<h3 align="left">🔷 About</h3>
+<h3 align="left">🔷 About Me</h3>
 
 
 - I'm currently pursuing Engineering Physics Major at [Institut Teknologi Bandung](https://itb.ac.id). Member of [Computational Material Design & Quantum Engineering (CMD-QE) Laboratory](https://cmd.tf.itb.ac.id/)
@@ -14,7 +14,7 @@
 <h3 align="left">🔷 Research Projects</h3>
 
 - Currently working on my undergraduate thesis projects, focusing on the development of Adaptive Variational Quantum Eigensolver to obtain molecular properties
-- Summer research project at [Australian National University](https://anu.edu.au): [Particle Simulation Software for Directional Dark Matter Research](https://github.com/azhar-ikhtiarudin/frt-research-project)
+- Previously worked on a summer research internship project at [Australian National University](https://anu.edu.au): [Particle Simulation Software for Directional Dark Matter Research](https://github.com/azhar-ikhtiarudin/frt-research-project)
 - Advancing Autonomous UAV Target Localization in GPS-Denied Environments [(Project)](https://github.com/azhar-ikhtiarudin/uav-path-planning-algorithm) [(IEEE Explore)](https://ieeexplore.ieee.org/abstract/document/10284425)
 - Detection of Ammonium Ion by An Electrochemical Sensor Based on Cu-BTC (Presented at International Conference on Sensor Technology 2023)
 - Broiler weight detections using Machine Learning and Computer Vision 
@@ -43,6 +43,17 @@
 
 ## Tools & Technologies 👨‍💻
 
+- Languages & Markups<br>
+    <p>
+    <img src="https://img.shields.io/badge/-Python-333333?style=flat-square&logo=Python">
+    <img src="https://img.shields.io/badge/-C-333333?style=flat-square&logo=C">
+    <img src="https://img.shields.io/badge/-C++-333333?style=flat-square&logo=Cplusplus">
+    <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript">
+    <img src="https://img.shields.io/badge/-Shell-333333?style=flat-square&logo=gnu+bash">
+    <img alt="LaTeX" height="20px" src="https://img.shields.io/badge/latex-%3333333.svg?style=for-the-badge&logo=latex&logoColor=white" />
+    <img alt="Markdown" height="20px" src="https://img.shields.io/badge/markdown-%3333333.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+    </p>
+
 - Quantum Programming Frameworks and Libraries<br>
     <a href="https://qiskit.org/" target="_blank"><img alt="Qiskit" height="20px" src="https://img.shields.io/badge/Qiskit-%3333333.svg?style=for-the-badge&logo=Qiskit&logoColor=white" /></a>
     <a href="https://pennylane.ai/" target="_blank"><img alt="PennyLane" height="20px" src="https://img.shields.io/badge/PennyLane-%3333333.svg?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAe8AAAHpCAMAAACcDkTiAAAABlBMVEVMaXEAAACaXKEdAAAAAXRSTlMAQObYZgAABc1JREFUeNrs0dEJw0AQQ8Fc%2F03nyxVICJ%2BZKWBZnn68HgAAAAAAAAAAAAAAAAAAAJxH48r86c9ZR%2BsdsXRgmq12xNaBabjGEWunlt1qR6wdWHarHTF2YBmuccTcqWG42hFzB5bdakesHRiG69S3dmgYrnbE3IFhuNoRcweG4Tr1zZ0ZhuvUN3dmGK5U39yRXbhWfXNHLgxn7sSN4ewdmITbD37%2B7d1BbsRkEITR9v0vDSs0sAElaNpd9b4T2H6uX1YWmZ%2FFu%2BqqgbvqLvDntfEue3C4f9jZofD%2BWWeHgrttJ7x%2F0l3vp43buYj7fwJ%2FrsS7y%2Fsp8%2FbZg%2Fv34M%2BpeK96L8T7V%2BDPubq4eT%2B8V70X4n3AWwsFc4u3MrzFW7yFm7d4i7d4i7d4i7f8vUW8xVu8xZt3Ebgmwlu8xVvTBK6J9RZvTSq4eGt4804F1%2FDmnQqu4c07FVzDm3cquIY37lRwTRO4hjfvVHANb96p4BreuFPBNcBxp3prgOPmjfsiuHjjBs4bOG7eAd7AcfPGDfz6s5omcAOZKm8TmSZwI5kqb%2BDTBO5MnyZv320zTeDApwkc%2BCx4E3%2FWmg1w4ue4eX8U4J0IDnyWvIlf5QZ%2BCHzWwInf5Ob9UYB3Djjw2fQGvnBtXwInzhv4XW7gnx3wXgAHfoabN2%2FgH73wic22N%2FDT3MD%2FFu%2FFeM%2FcBp85D74%2F70PgEwB%2Bm3vhDvwf%2BQXvvYEfB7%2FPvXAPvDe5gX8WOe%2F9t%2FYK%2BP68F7yBB8x7%2Fb3lvcC9%2BuKe8N6fd8DAD4BHc6%2FdC%2B8VbuAfFcx78%2B3l%2Fc%2Fmm97AK7hXb%2BgAeK438P2nkz7wd4l3cM8bFsR7BviXS5z3MvjcAk%2Fg3h%2F4a8VD570%2F8JeKt3DPA3zVeyYWfF4M3jLvl9xbrfdMJ%2Fi2eM28X%2FM2V3rP1A58V7xo3u95n%2Bu8Z6oHvihewP3KW9z3fnh%2F9R57vGcv4E3zfttb3eE9Y%2BB74BvcBr4nXnWaD%2FCNh%2BBE3xNffgYGPpPsPWPgq5e0wG3gC9fEuxN8kdvAFy5q5uFd9PtAXfMG%2Fpp7d6LPZHlPkfc%2B%2BH4zBl4EPgs50XEbOG%2FgCzcNnLcTHbeB4zbwq97AcRs4bwPHffCTjbeBd3EbeBe3gfMGjps37xBw3LmfbLwNvIvbwHHnDpw3cNy5JzpvA8edO3DeBo4bOG7evEPAced%2BsvE28C5uA8edO3DewHHz5p0Ljjv3k423gXdxGzhuvziZ6w0cN2%2FewHEf%2FGTjbeC4uwaey23gvIHncjvReRt4LreB8zbwLm4Dz%2BU2cN7Aceee6LwNvIvbwHO5gfM28Fxu4LyBR3M70XkbOG4DT%2BEG3u3tRM%2Fl5s0beDg374d388Bxdw08lxs4b%2BD53Lwf3rUDx901cN5dA8fdNfBcbuC8geMuOdErvQ0ct4EHcwPP5ebNG3gXt0%2B2Lm4D7%2BI28C5uA%2B%2FiNvAubuBd3E70Lm4Dr9LmjRs4bd60geMGTpv3f7FWhmkXNu8%2FC8cG%2Fu%2By4i3ewFO8xVvB3uKtYG%2FxFm%2FgKd4ycAV7i7eCvcVbvIGneIu3gr3FW8He4i3ewHm%2FPt4CLt7iDTzFW7zFOzje4h0cb%2FEGzjsl3uIdHG%2FxDo63eAPnnRJv8Q7OwMU7ON7iDZx3SrzFOzje4g2cd3C4gfNOibd4B8dbvIHzDg43cN4p8RZu4LxT4i3cwfEWbuC8Q%2BIt3MBxJ4c7ON7CDZx3cLiB4w4ON3DcvHGnhBs4bt64U8LNmzZw3CHRBk4bOO2UaAOHzRt2SrRTAi7e4n0x3gIu3uINnHdKvMU7ON7inZKBy8DFOzjewh0cb%2FEOjrd4A%2BedEm%2FxDo63cAPnnRJv8eaNOzjevHEHxxs47pR4izdv3MB5h4QbOG7gvGPCzRs3cNwp8QaOGzjumHADxw0cd0y0ieMGTjsn3MRpE6edFG3itNODjRx1Q6D%2FSpIkSZIkSZIkSZIkSZIkSZIk6Q8uCso58vVuCgAAAABJRU5ErkJggg%3D%3D&logoColor=black" /></a>
@@ -58,16 +69,7 @@
     <a href="https://scikit-learn.org/stable/" target="_blank"><img alt="scikit-learn" height="20px" src="https://img.shields.io/badge/scikit--learn-%3333333.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
     <a href="https://matplotlib.org" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-%3333333.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="20px"></a>
 
-- Programming Languages<br>
-    <p>
-    <img src="https://img.shields.io/badge/-Python-333333?style=flat-square&logo=Python">
-    <img src="https://img.shields.io/badge/-C-333333?style=flat-square&logo=C">
-    <img src="https://img.shields.io/badge/-C++-333333?style=flat-square&logo=Cplusplus">
-    <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript">
-    <img src="https://img.shields.io/badge/-Shell-333333?style=flat-square&logo=gnu+bash">
-    <img alt="LaTeX" height="20px" src="https://img.shields.io/badge/latex-%3333333.svg?style=for-the-badge&logo=latex&logoColor=white" />
-    <img alt="Markdown" height="20px" src="https://img.shields.io/badge/markdown-%3333333.svg?style=for-the-badge&logo=markdown&logoColor=white" />
-    </p>
+
 - Computational Chemistry <br>
     <p>
     <img src="https://img.shields.io/badge/-OpenFermion-333333?style=flat-square&logo=sql">
@@ -75,7 +77,7 @@
     <img src="https://img.shields.io/badge/-Psi4-333333?style=flat-square&logo=sql">
     </p>
   
-- Frontend Web Development<br>
+- Web Development<br>
     <p>
     <img src="https://img.shields.io/badge/-React-333333?style=flat-square&logo=react">
     <img src="https://img.shields.io/badge/-Vue.Js-333333?style=flat-square&logo=vue.js">
@@ -83,35 +85,16 @@
     <img src="https://img.shields.io/badge/-Bootstrap5-333333?style=flat-square&logo=bootstrap">
     <img src="https://img.shields.io/badge/-Sass-333333?style=flat-square&logo=sass">
     <img src="https://img.shields.io/badge/-Tailwind-333333?style=flat-square&logo=tailwind-css">
-    </p>
-
-- Backend Web Development<br>
-    <p>
     <img src="https://img.shields.io/badge/-Netlify-333333?style=flat-square&logo=netlify">
     <img src="https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku">
-    </p>
-- Database<br>
-    <p>
     <img src="https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql">
     <img src="https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase">
-    </p>
-
-- Version Control
-    <p>
-    <img src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git">
-    <img src="https://img.shields.io/badge/-Gitlab-333333?style=flat-square&logo=gitlab">
-    <img src="https://img.shields.io/badge/-Github-333333?style=flat-square&logo=github">
-    </p>
-
-- Creative App <br>
-    <p>
     <img height='20px' src="https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma">
     <img height='20px' src="https://img.shields.io/badge/-Adobe%20XD-333333?style=flat-square&logo=adobe%20XD">
     <img height='20px' src="https://img.shields.io/badge/adobe%20photoshop-%3333333.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
-    <img height='20px' src="https://img.shields.io/badge/adobe%20illustrator-%3333333.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
     <img height='20px' src="https://img.shields.io/badge/Adobe%20After%20Effects-333333.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white">
-    <img height='20px' src="https://img.shields.io/badge/Adobe%20Lightroom-333333.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
     </p>
+
 
 <!-- ## Certificate 📄
 Here is [my programming certificate](Certificate.md) from various course providers. -->
