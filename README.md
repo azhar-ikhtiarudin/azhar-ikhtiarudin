@@ -1,37 +1,44 @@
-<h1 align="left">Hello! My name is Azhar Ikhtiarudin 👋</h1>
+<h3 align="left">Hi! My name is Azhar Ikhtiarudin</h3>
 
 
-<h3 align="left">🔷 About Me</h3>
+<h4 align="left">🔷 About Me</h4>
 
 
-- I'm currently pursuing Engineering Physics Major at [Institut Teknologi Bandung](https://itb.ac.id). Member of [Computational Material Design & Quantum Engineering (CMD-QE) Laboratory](https://cmd.tf.itb.ac.id/)
+- I recently graduated with a Bachelor's degree in Engineering Physics at [Institut Teknologi Bandung](https://itb.ac.id), specializing in [Quantum and Nano Technology](https://mfm.tf.itb.ac.id/)
 
-- I'm interested in scientific computation, quantum computing, and machine learning
+- My interests include scientific computation, quantum computing, and machine learning.
 
-- In my "free time," I enjoy learning new & interesting things or working on fun projects with my friends!
+- In my "free time", I enjoy learning new things and working on fun projects with my friends!
 
 
-<h3 align="left">🔷 Research Projects</h3>
 
-- Currently working on my undergraduate thesis projects, focusing on the development of Adaptive Variational Quantum Eigensolver to obtain molecular properties
-- Previously worked on a summer research internship project at [Australian National University](https://anu.edu.au) ([Particle Simulation Software for Directional Dark Matter Research](https://github.com/azhar-ikhtiarudin/frt-research-project))
-- Advancing Autonomous UAV Target Localization in GPS-Denied Environments [(Project)](https://github.com/azhar-ikhtiarudin/uav-path-planning-algorithm) [(IEEE Explore)](https://ieeexplore.ieee.org/abstract/document/10284425)
-- Detection of Ammonium Ion by An Electrochemical Sensor Based on Cu-BTC (Presented at International Conference on Sensor Technology 2023)
-- Broiler weight detection using Machine Learning and Computer Vision 
+<h4 align="left">🔷 Research Projects</h4>
 
-<h3 align="left">🔷 Hackathon & College Projects</h3>
+- Research Mentorship Program @[Quantum Open Source Foundation (QOSF)](https://qosf.org), <i> Reinforcement Learning for Quantum Architecture Search (RL-QAS) </i>
+- Research Assistant @[BRIN Research Center for Quantum Physics](https://quantumresearch.id), <i>Adaptive Variational Quantum Eigensolver (ADAPT-VQE) for Molecular Simulation </i>
+- Summer Research internship @[Australian National University](https://anu.edu.au), <i>Optimization of Simulation Software for Directional Dark Matter Detection Research </i>,
+- Student Research Project @[Computational Material Design & Quantum Engineering (CMD-QE) Lab, ITB](https://cmd.tf.itb.ac.id/),  <i>Microkinetic Comparison of CO2 Hydrogenation to Methanol </i> 
+- Student Research Project  @[Quantum and Nano Technology Specialization, TF ITB](https://mfm.fti.itb.ac.id/), <i> Development of an Electrochemical Sensor for Ammonium Ion Detection Based on Cu-BTC</i>
+- Student Research Project  @[Instrumentation, Control, and Decision Systems (IcoDeS) Lab, ITB](https://ik.fti.itb.ac.id/lab-icodes/),  <i>Path-planning algorithm for UAV Target Localization using Reinforcement Learning </i>
+- Machine Learning Engineer Intern @[Nantara Farm](https://nantarafarm.id), <i>Broiler Weight Detection using Machine Learning and Computer Vision</i>
 
-- Hackathon Projects
+
+
+<h4 align="left">🔷Other Projects I'm Passionate about</h4>
+
+- Software Development (Hackathon Projects)
     - [TransitSpot](https://github.com/omaewa-mo-shinderu-APEC/TransitSpot): Mobile app for public transport needs
     - [OpenSearch](https://github.com/GarudaHacksMafiaTeam/OpenSearch): Social media for open source enthusiasts
     - [InVey](https://github.com/findit-omae-wa-mou-shindeiru/Invey): Online monetized survey platform
 
-- Interesting College Projects
+- Robotics/IoT (College Projects)
     - [Light Seeker Robot](https://github.com/MSMazaya/Tubes-LTF2): End to End implementation of an automated light seeking PV robot controlled via mobile device
-    - [Computational Material Design Project](https://github.com/azhar-ikhtiarudin/computational-material-design)
 
+- Wordpress Website
+    - [TF ITB](https://tf.itb.ac.id), Official Website of Engineering Physics Department, ITB
+    - [Alfarial Studios](alfarial.com), A creative studio I founded, specializing in infographic design and animations for clients worldwide.
 
-<h3 align="left">🔷 Let's connect! ☕</h3>
+<h4 align="left">🔷 Let's connect! ☕</h4>
 
 <a href="https://www.linkedin.com/in/azhar-ikhtiarudin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="24px"></a>
 <a href="mailto: 13320041@mahasiswa.itb.ac.id"><img src="https://img.shields.io/badge/email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="24px"></a>
