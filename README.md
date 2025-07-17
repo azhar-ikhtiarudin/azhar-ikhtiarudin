@@ -10,11 +10,9 @@
 <h4 align="left">🔷 Several Places and Research Projects:</h4>
 
 - Using Reinforcement Learning (RL) to design better quantum circuits at the [Quantum Open Source Foundation (QOSF)](https://qosf.org)  
-- Developing an Adaptive Variational Quantum Eigensolver at the [BRIN Center for Quantum Physics](https://quantumresearch.id) and the [Computational Material Design & Quantum Engineering (CMD-QE) Lab, ITB](https://cmd.tf.itb.ac.id/)  
+- Developing an Adaptive Variational Quantum Eigensolver at the [BRIN Center for Quantum Physics](https://quantumresearch.id) and the [CMD-QE Lab, ITB](https://cmd.tf.itb.ac.id/)  
 - Optimized dark matter simulation software at the [Australian National University (ANU)](https://anu.edu.au) 🦘  
-- Designed better materials computationally at the [CMD-QE Lab, ITB](https://cmd.tf.itb.ac.id/)  
-- Built a path-planning algorithm for quadcopters using RL at the [IcoDeS Lab, ITB](https://ik.fti.itb.ac.id/lab-icodes/)  
-- Predicted broiler chicken weight using CCTV footage and ML at [Nantara Farm](https://nantarafarm.id)
+- Designed better materials computationally at [CMD-QE Lab, ITB](https://cmd.tf.itb.ac.id/), Built path-planning algorithm for quadcopters with RL at [IcoDeS Lab, ITB](https://ik.fti.itb.ac.id/lab-icodes/), and Predicted broiler chicken weight with ML at [Nantara Farm](https://nantarafarm.id)
 
 
 <h4 align="left">🔷 In Addition to Research, I Also Currently Enjoy Working On:</h4>
@@ -26,16 +24,9 @@
 <!-- <h4 align="left">🔷 So Let's connect! </h4> -->
 
 
-<a href="https://www.linkedin.com/in/azhar-ikhtiarudin/" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/LinkedIn-0A2342?style=for-the-badge&logo=linkedin&logoColor=white" height="30px">
-</a>
-<a href="mailto:azhar.ikhtiarudin@tum.de" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Email-0A2342?style=for-the-badge&logo=gmail&logoColor=white" height="30px">
-</a>
-<a href="https://azhar.ikhtiarudin.com/" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Website-0A2342?style=for-the-badge&logo=GoogleChrome&logoColor=white" height="30px">
-</a>
-
+<a href="https://azhar.ikhtiarudin.com/" target="_blank"><img alt="personal site | Website" height="23px" src="https://img.shields.io/badge/Website-0A2342?style=for-the-badge&logo=GoogleChrome&logoColor=white" /></a>
+<a href="mailto:azhar.ikhtiarudin@tum.de" target="_blank"><img alt="email | Email" height="23px" src="https://img.shields.io/badge/Email-0A2342?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/azhar-ikhtiarudin/" target="_blank"><img alt="linkedin | Linkedin" height="23px" src="https://img.shields.io/badge/LinkedIn-0A2342?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 <!-- <a href="https://www.instagram.com/azhar.ikhtiarudin/" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="24px"> </a> -->
