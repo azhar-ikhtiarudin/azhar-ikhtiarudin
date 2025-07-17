@@ -3,22 +3,23 @@
 
 <h4 align="left">🔷 About Me</h4>
 
-- I recently graduated from [Institut Teknologi Bandung](https://itb.ac.id) with a degree in Engineering Physics and will begin my Master's studies at the [Technical University of Munich](https://tum.de) this Winter.
+- I recently graduated from [Institut Teknologi Bandung](https://itb.ac.id) with a degree in Engineering Physics and will begin my Master's studies at the [Technical University of Munich](https://tum.de) in Winter 2025.
 
-- I'm interested in simulating physics with computers (quantum, classical, AI, and everything in between!) 
+- I'm interested in simulating physics with computers (quantum, classical, AI, and everything in between!) ✨
 
 <h4 align="left">🔷 Several Places and Research Projects:</h4>
 
-- Working on Reinforcement Learning approach for Quantum Architecture Search (RL-QAS) at [Quantum Open Source Foundation (QOSF)](https://qosf.org)  
-- Developing an Adaptive Variational Quantum Eigensolver at [BRIN Center for Quantum Physics](https://quantumresearch.id) and [Computational Material Design & Quantum Engineering (CMD-QE) Lab, ITB](https://cmd.tf.itb.ac.id/)  
-- Optimizing dark matter simulation software at [Australian National University](https://anu.edu.au) 🦘  
-- Designing better materials computationally at [CMD-QE Lab, ITB](https://cmd.tf.itb.ac.id/)  
-- Designed a path-planning algorithm for quadcopters using reinforcement learning at [IcoDeS Lab, ITB](https://ik.fti.itb.ac.id/lab-icodes/)  
-- Detecting Broiler chicken weight with CCTV camera and MLat [Nantara Farm](https://nantarafarm.id)  
+- Using Reinforcement Learning (RL) to design better quantum circuits at the [Quantum Open Source Foundation (QOSF)](https://qosf.org)  
+- Developing an Adaptive Variational Quantum Eigensolver at the [BRIN Center for Quantum Physics](https://quantumresearch.id) and the [Computational Material Design & Quantum Engineering (CMD-QE) Lab, ITB](https://cmd.tf.itb.ac.id/)  
+- Optimized dark matter simulation software at the [Australian National University (ANU)](https://anu.edu.au) 🦘  
+- Designed better materials computationally at the [CMD-QE Lab, ITB](https://cmd.tf.itb.ac.id/)  
+- Built a path-planning algorithm for quadcopters using RL at the [IcoDeS Lab, ITB](https://ik.fti.itb.ac.id/lab-icodes/)  
+- Predicted broiler chicken weight using CCTV footage and ML at [Nantara Farm](https://nantarafarm.id)
+
 
 <h4 align="left">🔷 In Addition to Research, I Also Currently Enjoy Working On:</h4>
 
-- [Alfarial Studios](https://alfarial.com), a creative studio I founded, specializing in infographic design and animations for clients worldwide.  
+- [Alfarial Studios](https://alfarial.com), a creative studio I founded, specializing in infographic design and animations.  
 - Several fun hackathon projects (though not really doing them much these days): [TransitSpot](https://github.com/omaewa-mo-shinderu-APEC/TransitSpot), [OpenSearch](https://github.com/GarudaHacksMafiaTeam/OpenSearch),   [InVey](https://github.com/findit-omae-wa-mou-shindeiru/Invey)
 
 <h4 align="left">🔷 Also a big fan of nature hikes and cozy coffee moments — Let's connect! 🗻☕ </h4>
