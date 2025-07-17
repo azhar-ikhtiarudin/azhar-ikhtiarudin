@@ -1,55 +1,48 @@
-<h3 align="left">Hi! My name is Azhar Ikhtiarudin</h3>
+<h3 align="left">Hi 👋 My name is Azhar Ikhtiarudin</h3>
 
 
 <h4 align="left">🔷 About Me</h4>
 
+- I recently graduated from [Institut Teknologi Bandung](https://itb.ac.id) with a degree in Engineering Physics and will begin my Master's studies at the [Technical University of Munich](https://tum.de) this Winter.
 
-- I recently graduated with a Bachelor's degree in Engineering Physics at [Institut Teknologi Bandung](https://itb.ac.id), specializing in [Quantum and Nano Technology](https://mfm.tf.itb.ac.id/)
+- I'm interested in simulating physics with computers (quantum, classical, AI, and everything in between!) 
 
-- My interests include scientific computation, quantum computing, and machine learning.
+<h4 align="left">🔷 Several Places and Research Projects:</h4>
 
-- In my "free time", I enjoy learning new things and working on fun projects with my friends!
+- Working on Reinforcement Learning approach for Quantum Architecture Search (RL-QAS) at [Quantum Open Source Foundation (QOSF)](https://qosf.org)  
+- Developing an Adaptive Variational Quantum Eigensolver at [BRIN Center for Quantum Physics](https://quantumresearch.id) and [Computational Material Design & Quantum Engineering (CMD-QE) Lab, ITB](https://cmd.tf.itb.ac.id/)  
+- Optimizing dark matter simulation software at [Australian National University](https://anu.edu.au) 🦘  
+- Designing better materials computationally at [CMD-QE Lab, ITB](https://cmd.tf.itb.ac.id/)  
+- Designed a path-planning algorithm for quadcopters using reinforcement learning at [IcoDeS Lab, ITB](https://ik.fti.itb.ac.id/lab-icodes/)  
+- Detecting Broiler chicken weight with CCTV camera and MLat [Nantara Farm](https://nantarafarm.id)  
+
+<h4 align="left">🔷 In Addition to Research, I Also Currently Enjoy Working On:</h4>
+
+- [Alfarial Studios](https://alfarial.com), a creative studio I founded, specializing in infographic design and animations for clients worldwide.  
+- Several fun hackathon projects (though not really doing them much these days): [TransitSpot](https://github.com/omaewa-mo-shinderu-APEC/TransitSpot), [OpenSearch](https://github.com/GarudaHacksMafiaTeam/OpenSearch),   [InVey](https://github.com/findit-omae-wa-mou-shindeiru/Invey)
+
+<h4 align="left">🔷 Also a big fan of nature hikes and cozy coffee moments — Let's connect! 🗻☕ </h4>
+<!-- <h4 align="left">🔷 So Let's connect! </h4> -->
 
 
-
-<h4 align="left">🔷 Research Projects</h4>
-
-- Research Mentorship Program @[Quantum Open Source Foundation (QOSF)](https://qosf.org), <i> Reinforcement Learning for Quantum Architecture Search (RL-QAS) </i>
-- Research Assistant @[BRIN Research Center for Quantum Physics](https://quantumresearch.id), <i>Adaptive Variational Quantum Eigensolver (ADAPT-VQE) for Molecular Simulation </i>
-- Summer Research internship @[Australian National University](https://anu.edu.au), <i>Optimization of Simulation Software for Directional Dark Matter Detection Research </i>,
-- Student Research Project @[Computational Material Design & Quantum Engineering (CMD-QE) Lab, ITB](https://cmd.tf.itb.ac.id/),  <i>Microkinetic Comparison of CO2 Hydrogenation to Methanol </i> 
-- Student Research Project  @[Quantum and Nano Technology Specialization, TF ITB](https://mfm.fti.itb.ac.id/), <i> Development of an Electrochemical Sensor for Ammonium Ion Detection Based on Cu-BTC</i>
-- Student Research Project  @[Instrumentation, Control, and Decision Systems (IcoDeS) Lab, ITB](https://ik.fti.itb.ac.id/lab-icodes/),  <i>Path-planning algorithm for UAV Target Localization using Reinforcement Learning </i>
-- Machine Learning Engineer Intern @[Nantara Farm](https://nantarafarm.id), <i>Broiler Weight Detection using Machine Learning and Computer Vision</i>
-
-
-
-<h4 align="left">🔷Other Projects I'm Passionate about</h4>
-
-- Software Development (Hackathon Projects)
-    - [TransitSpot](https://github.com/omaewa-mo-shinderu-APEC/TransitSpot): Mobile app for public transport needs
-    - [OpenSearch](https://github.com/GarudaHacksMafiaTeam/OpenSearch): Social media for open source enthusiasts
-    - [InVey](https://github.com/findit-omae-wa-mou-shindeiru/Invey): Online monetized survey platform
-
-- Robotics/IoT (College Projects)
-    - [Light Seeker Robot](https://github.com/MSMazaya/Tubes-LTF2): End to End implementation of an automated light seeking PV robot controlled via mobile device
-
-- Wordpress Website
-    - [TF ITB](https://tf.itb.ac.id), Official Website of Engineering Physics Department, ITB
-    - [Alfarial Studios](alfarial.com), A creative studio I founded, specializing in infographic design and animations for clients worldwide.
-
-<h4 align="left">🔷 Let's connect! ☕</h4>
-
-<a href="https://www.linkedin.com/in/azhar-ikhtiarudin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="24px"></a>
-<a href="mailto: 13320041@mahasiswa.itb.ac.id"><img src="https://img.shields.io/badge/email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="24px"></a>
-<a href="https://azhar.ikhtiarudin.com/"><img src="https://img.shields.io/badge/Personal%20website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" height="24px">
+<a href="https://www.linkedin.com/in/azhar-ikhtiarudin/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A2342?style=for-the-badge&logo=linkedin&logoColor=white" height="24px">
+</a>
+<a href="mailto:azhar.ikhtiarudin@tum.de">
+  <img src="https://img.shields.io/badge/Email-0A2342?style=for-the-badge&logo=gmail&logoColor=white" height="24px">
+</a>
+<a href="https://azhar.ikhtiarudin.com/">
+  <img src="https://img.shields.io/badge/Website-0A2342?style=for-the-badge&logo=GoogleChrome&logoColor=white" height="24px">
 </a>
 
+
+
+
 <!-- <a href="https://www.instagram.com/azhar.ikhtiarudin/" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="24px"> </a> -->
-<br/>
-
-## Tools & Technologies 👨‍💻
-
+<!-- <br/> -->
+<!-- 
+## Tools & Technologies 👨‍💻 -->
+<!-- 
 - Languages & Markups<br>
     <p>
     <img src="https://img.shields.io/badge/-Python-333333?style=flat-square&logo=Python">
@@ -82,8 +75,8 @@
     <img src="https://img.shields.io/badge/-OpenFermion-333333?style=flat-square&logo=sql">
     <img src="https://img.shields.io/badge/-PySCF-333333?style=flat-square&logo=sql">
     <img src="https://img.shields.io/badge/-Psi4-333333?style=flat-square&logo=sql">
-    </p>
-  
+    </p> -->
+<!--   
 - Web Development<br>
     <p>
     <img src="https://img.shields.io/badge/-React-333333?style=flat-square&logo=react">
@@ -101,7 +94,7 @@
     <img height='20px' src="https://img.shields.io/badge/adobe%20photoshop-%3333333.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
     <img height='20px' src="https://img.shields.io/badge/Adobe%20After%20Effects-333333.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white">
     </p>
-
+ -->
 
 <!-- ## Certificate 📄
 Here is [my programming certificate](Certificate.md) from various course providers. -->
