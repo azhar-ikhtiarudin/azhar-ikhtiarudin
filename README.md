@@ -19,8 +19,8 @@
 
 <h4 align="left">🔷 In Addition to Research, I Also Currently Enjoy Working On:</h4>
 
-- [Alfarial Studios](https://alfarial.com), a creative studio I founded, specializing in infographic design and animations.  
-- Several fun hackathon projects (though not really doing them much these days): [TransitSpot](https://github.com/omaewa-mo-shinderu-APEC/TransitSpot), [OpenSearch](https://github.com/GarudaHacksMafiaTeam/OpenSearch),   [InVey](https://github.com/findit-omae-wa-mou-shindeiru/Invey)
+- [Alfarial Studios](https://alfarial.com): A creative studio I founded, specializing in infographic design and animations.  
+- [TransitSpot](https://github.com/omaewa-mo-shinderu-APEC/TransitSpot), [OpenSearch](https://github.com/GarudaHacksMafiaTeam/OpenSearch),   [InVey](https://github.com/findit-omae-wa-mou-shindeiru/Invey): Several fun hackathon projects (though not really doing them much these days)
 
 <h4 align="left">🔷 Also a big fan of nature hikes and cozy coffee moments — Let's connect! 🗻☕ </h4>
 <!-- <h4 align="left">🔷 So Let's connect! </h4> -->
