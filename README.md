@@ -26,16 +26,15 @@
 <!-- <h4 align="left">🔷 So Let's connect! </h4> -->
 
 
-<a href="https://www.linkedin.com/in/azhar-ikhtiarudin/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A2342?style=for-the-badge&logo=linkedin&logoColor=white" height="24px">
+<a href="https://www.linkedin.com/in/azhar-ikhtiarudin/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/LinkedIn-0A2342?style=for-the-badge&logo=linkedin&logoColor=white" height="30px">
 </a>
-<a href="mailto:azhar.ikhtiarudin@tum.de">
-  <img src="https://img.shields.io/badge/Email-0A2342?style=for-the-badge&logo=gmail&logoColor=white" height="24px">
+<a href="mailto:azhar.ikhtiarudin@tum.de" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Email-0A2342?style=for-the-badge&logo=gmail&logoColor=white" height="30px">
 </a>
-<a href="https://azhar.ikhtiarudin.com/">
-  <img src="https://img.shields.io/badge/Website-0A2342?style=for-the-badge&logo=GoogleChrome&logoColor=white" height="24px">
+<a href="https://azhar.ikhtiarudin.com/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Website-0A2342?style=for-the-badge&logo=GoogleChrome&logoColor=white" height="30px">
 </a>
-
 
 
 
