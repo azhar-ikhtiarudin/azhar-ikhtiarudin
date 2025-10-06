@@ -3,7 +3,7 @@
 
 <h4 align="left">🔷 About Me</h4>
 
-- I recently graduated from [Institut Teknologi Bandung](https://itb.ac.id) with a degree in Engineering Physics and will begin my Master's studies at the [Technical University of Munich](https://tum.de) in Winter 2025.
+- I am currently pursuing my Master’s in Quantum Science and Technology at the [Technical University of Munich](https://tum.de), and prior to that, I studied Engineering Physics at [Institut Teknologi Bandung](https://itb.ac.id).
 
 - I'm interested in simulating physics with computers (quantum, classical, AI, and everything in between!) ✨
 
