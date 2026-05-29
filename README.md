@@ -6,7 +6,7 @@
 <h4 align="left">🔷 Research & Projects</h4>
 
 - Quantum circuit optimization with RL at [QOSF](https://qosf.org) ([Repo](https://github.com/azhar-ikhtiarudin/bench-rlqas))
-- Adaptive VQE for quantum chemistry at [BRIN Center for Quantum Physics](https://quantumresearch.id) and [CMD-QE Lab, ITB](https://cmd.tf.itb.ac.id/) ([Repo](https://github.com/azhar-ikhtiarudin/measurement-reduction-adapt-vqe))
+- Adaptive VQE for quantum chemistry at [BRIN Quantum](https://quantumresearch.id) and [CMD-QE Lab, ITB](https://cmd.tf.itb.ac.id/) ([Repo](https://github.com/azhar-ikhtiarudin/measurement-reduction-adapt-vqe))
 - Dark matter simulation software at the [Australian National University (ANU)](https://anu.edu.au) 🦘 ([Repo](https://github.com/azhar-ikhtiarudin/frt-research-project))
 - Computational materials design at [CMD-QE Lab, ITB](https://cmd.tf.itb.ac.id/)
 - Path planning algorithm with RL at [IcoDeS Lab, ITB](https://ik.fti.itb.ac.id/lab-icodes/) ([Repo](https://github.com/azhar-ikhtiarudin/uav-path-planning-algorithm))
@@ -14,7 +14,7 @@
 <h4 align="left">🔷 Outside Research</h4>
 
 - Built [Alfarial Studios](https://alfarial.com), no longer involved in daily operations
-- Big fan of nature hikes and cozy coffee moments 🗻☕
+- Big fan of nature hikes and cozy coffee moments ☕🚵‍♀️
 
 <a href="https://azhar.ikhtiarudin.com/" target="_blank"><img alt="personal site | Website" height="23px" src="https://img.shields.io/badge/Website-0A2342?style=for-the-badge&logo=GoogleChrome&logoColor=white" /></a>
 <a href="mailto:azhar.ikhtiarudin@tum.de" target="_blank"><img alt="email | Email" height="23px" src="https://img.shields.io/badge/Email-0A2342?style=for-the-badge&logo=gmail&logoColor=white" /></a>
