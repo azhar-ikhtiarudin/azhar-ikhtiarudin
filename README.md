@@ -1,4 +1,4 @@
-<h4 align="left">🔷 Hi, I am Azhar</h4>
+<h4 align="left">🔷 Hi, I am Azhar :)</h4>
 
 - Joint M.Sc. Quantum Science & Technology @ TUM & LMU, B.Sc. Engineering Physics @ ITB.
 - Interested in simulating physics with computers (quantum, classical, AI, and everything in between!) ✨
@@ -9,12 +9,11 @@
 - Adaptive VQE for quantum chemistry at [BRIN Center for Quantum Physics](https://quantumresearch.id) and [CMD-QE Lab, ITB](https://cmd.tf.itb.ac.id/) ([Repo](https://github.com/azhar-ikhtiarudin/measurement-reduction-adapt-vqe))
 - Dark matter simulation software at the [Australian National University (ANU)](https://anu.edu.au) 🦘 ([Repo](https://github.com/azhar-ikhtiarudin/frt-research-project))
 - Computational materials design at [CMD-QE Lab, ITB](https://cmd.tf.itb.ac.id/)
-- Quadcopter path planning with RL at [IcoDeS Lab, ITB](https://ik.fti.itb.ac.id/lab-icodes/) ([Repo](https://github.com/azhar-ikhtiarudin/uav-path-planning-algorithm))
-- ML for broiler weight prediction at [Nantara Farm](https://nantarafarm.id) ([Repo](https://github.com/azhar-ikhtiarudin/broiler-weight-predictor))
+- Path planning algorithm with RL at [IcoDeS Lab, ITB](https://ik.fti.itb.ac.id/lab-icodes/) ([Repo](https://github.com/azhar-ikhtiarudin/uav-path-planning-algorithm))
 
 <h4 align="left">🔷 Outside Research</h4>
 
-- Built [Alfarial Studios](https://alfarial.com), no longer involved in day-to-day operations
+- Built [Alfarial Studios](https://alfarial.com), no longer involved in daily operations
 - Big fan of nature hikes and cozy coffee moments 🗻☕
 
 <a href="https://azhar.ikhtiarudin.com/" target="_blank"><img alt="personal site | Website" height="23px" src="https://img.shields.io/badge/Website-0A2342?style=for-the-badge&logo=GoogleChrome&logoColor=white" /></a>
