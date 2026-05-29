@@ -1,32 +1,45 @@
-<h3 align="left">Hi 👋 My name is Azhar Ikhtiarudin</h3>
+<h4 align="left">🔷 Hi, I am Azhar</h4>
 
+- Joint M.Sc. Quantum Science & Technology @ TUM & LMU, B.Sc. Engineering Physics @ ITB.
+- Interested in simulating physics with computers (quantum, classical, AI, and everything in between!) ✨
 
-<h4 align="left">🔷 About Me</h4>
+<h4 align="left">🔷 Research & Projects</h4>
 
-- I am currently pursuing my Master’s in Quantum Science and Technology at the [Technical University of Munich](https://tum.de), and prior to that, I studied Engineering Physics at [Institut Teknologi Bandung](https://itb.ac.id).
+- Quantum circuit optimization with RL at [QOSF](https://qosf.org) ([Repo](https://github.com/azhar-ikhtiarudin/bench-rlqas))
+- Adaptive VQE for quantum chemistry at [BRIN Center for Quantum Physics](https://quantumresearch.id) and [CMD-QE Lab, ITB](https://cmd.tf.itb.ac.id/) ([Repo](https://github.com/azhar-ikhtiarudin/measurement-reduction-adapt-vqe))
+- Dark matter simulation software at the [Australian National University (ANU)](https://anu.edu.au) 🦘 ([Repo](https://github.com/azhar-ikhtiarudin/frt-research-project))
+- Computational materials design at [CMD-QE Lab, ITB](https://cmd.tf.itb.ac.id/)
+- Quadcopter path planning with RL at [IcoDeS Lab, ITB](https://ik.fti.itb.ac.id/lab-icodes/) ([Repo](https://github.com/azhar-ikhtiarudin/uav-path-planning-algorithm))
+- ML for broiler weight prediction at [Nantara Farm](https://nantarafarm.id) ([Repo](https://github.com/azhar-ikhtiarudin/broiler-weight-predictor))
 
-- I'm interested in simulating physics with computers (quantum, classical, AI, and everything in between!) ✨
+<h4 align="left">🔷 Outside Research</h4>
 
-<h4 align="left">🔷 Several Places and Research Projects:</h4>
-
-- Using Reinforcement Learning (RL) to design better quantum circuits at the [Quantum Open Source Foundation (QOSF)](https://qosf.org)  
-- Developing an Adaptive Variational Quantum Eigensolver at the [BRIN Center for Quantum Physics](https://quantumresearch.id) and the [CMD-QE Lab, ITB](https://cmd.tf.itb.ac.id/)  
-- Optimized dark matter simulation software at the [Australian National University (ANU)](https://anu.edu.au) 🦘  
-- Designed better materials computationally at [CMD-QE Lab, ITB](https://cmd.tf.itb.ac.id/), Built path-planning algorithm for quadcopters with RL at [IcoDeS Lab, ITB](https://ik.fti.itb.ac.id/lab-icodes/), and Predicted broiler chicken weight with ML at [Nantara Farm](https://nantarafarm.id)
-
-
-<h4 align="left">🔷 In Addition to Research, I Also Currently Enjoy Working On:</h4>
-
-- [Alfarial Studios](https://alfarial.com): A creative studio I founded, specializing in infographic design and animations.  
-- [TransitSpot](https://github.com/omaewa-mo-shinderu-APEC/TransitSpot), [OpenSearch](https://github.com/GarudaHacksMafiaTeam/OpenSearch),   [InVey](https://github.com/findit-omae-wa-mou-shindeiru/Invey): Several fun hackathon projects (though not really doing them much these days)
-
-<h4 align="left">🔷 Also a big fan of nature hikes and cozy coffee moments — Let's connect! 🗻☕ </h4>
-<!-- <h4 align="left">🔷 So Let's connect! </h4> -->
-
+- Built [Alfarial Studios](https://alfarial.com), no longer involved in day-to-day operations
+- Big fan of nature hikes and cozy coffee moments 🗻☕
 
 <a href="https://azhar.ikhtiarudin.com/" target="_blank"><img alt="personal site | Website" height="23px" src="https://img.shields.io/badge/Website-0A2342?style=for-the-badge&logo=GoogleChrome&logoColor=white" /></a>
 <a href="mailto:azhar.ikhtiarudin@tum.de" target="_blank"><img alt="email | Email" height="23px" src="https://img.shields.io/badge/Email-0A2342?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/azhar-ikhtiarudin/" target="_blank"><img alt="linkedin | Linkedin" height="23px" src="https://img.shields.io/badge/LinkedIn-0A2342?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+<!-- <h4 align="left">🔷 Hi, I am Azhar </h4> -->
+
+
+<!-- <h4 align="left">🔷 Several Places and Research Projects:</h4> -->
+
+
+<!-- <h4 align="left">🔷 In Addition to Research, I Also Currently Enjoy Working On:</h4>
+
+- [Alfarial Studios](https://alfarial.com): A creative studio I founded, specializing in infographic design and animations.  
+- [TransitSpot](https://github.com/omaewa-mo-shinderu-APEC/TransitSpot), [OpenSearch](https://github.com/GarudaHacksMafiaTeam/OpenSearch),   [InVey](https://github.com/findit-omae-wa-mou-shindeiru/Invey): Several fun hackathon projects (though not really doing them much these days) -->
+
+<!-- <h4 align="left">🔷 Also a big fan of nature hikes and cozy coffee moments — Let's connect! 🗻☕ </h4> -->
+<!-- <h4 align="left">🔷 So Let's connect! </h4> -->
+
+
+<!-- <a href="https://azhar.ikhtiarudin.com/" target="_blank"><img alt="personal site | Website" height="23px" src="https://img.shields.io/badge/Website-0A2342?style=for-the-badge&logo=GoogleChrome&logoColor=white" /></a>
+<a href="mailto:azhar.ikhtiarudin@tum.de" target="_blank"><img alt="email | Email" height="23px" src="https://img.shields.io/badge/Email-0A2342?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/azhar-ikhtiarudin/" target="_blank"><img alt="linkedin | Linkedin" height="23px" src="https://img.shields.io/badge/LinkedIn-0A2342?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 
 
 <!-- <a href="https://www.instagram.com/azhar.ikhtiarudin/" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="24px"> </a> -->
