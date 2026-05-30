@@ -14,7 +14,7 @@
 <h4 align="left">🔷 Outside Research</h4>
 
 - Built [Alfarial Studios](https://alfarial.com), no longer involved in daily operations
-- Big fan of nature hikes and cozy coffee moments ☕🚵‍♀️
+- Big fan of nature hikes and cozy coffee moments 🌄☕
 
 <a href="https://azhar.ikhtiarudin.com/" target="_blank"><img alt="personal site | Website" height="23px" src="https://img.shields.io/badge/Website-0A2342?style=for-the-badge&logo=GoogleChrome&logoColor=white" /></a>
 <a href="mailto:azhar.ikhtiarudin@tum.de" target="_blank"><img alt="email | Email" height="23px" src="https://img.shields.io/badge/Email-0A2342?style=for-the-badge&logo=gmail&logoColor=white" /></a>
